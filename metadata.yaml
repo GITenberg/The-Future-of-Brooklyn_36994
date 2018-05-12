@@ -1,0 +1,27 @@
+_repo: The-Future-of-Brooklyn_36994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapin, Alfred Clark
+    alias: Chapin, Alfred C.
+    birthdate: 1848
+    gutenberg_agent_id: '38580'
+    url: http://www.gutenberg.org/2009/agents/38580
+description: ''
+gutenberg_issued: '2011-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36994'
+  lccn: 08031262
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Brooklyn (New York, N.Y.) -- Statistics'
+title: The Future of Brooklyn
+url: http://www.gutenberg.org/ebooks/36994
